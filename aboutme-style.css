@@ -1,26 +1,40 @@
 p {
-	font-family: Hack;
+	font-family: Agency FB;
 	color: lime;
 }
 
 
 h1 {
-	font-family: Hack;
+	font-family: Agency FB;
 	color: lime;
 }
 
 
+a {
+	color: red;
+}
+
 ol {
-	font-family: Hack;
+	font-family: Agency FB;
 	color: lime;
+}
+
+hr {
+	width: 12;
+	border-color: red;
 }
 
 
 li {
-	font-family: Hack;
+	font-family: Agency FB;
 	color: lime;
 }
 body {
 	background: black;
+
+}
+
+
+img {
 
 }
